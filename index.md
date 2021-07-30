@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Jan Anlauff's Portfolio
 ---
 
 <header>
