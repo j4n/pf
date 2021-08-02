@@ -1,6 +1,6 @@
 <section class="tiles">
 
-{% for project in site.project limit:site.front-page-posts %}
+{% for project in site.projects limit:site.front-page-posts %}
 	<article class="style{{ forloop.index | plus:1 }}">
 		<span class="image">
 			<img src="{{ site.url }}{{ site.baseurl }}/{{project.featured-image}}" alt="" />
