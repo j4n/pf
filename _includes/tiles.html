@@ -1,14 +1,14 @@
 <section class="tiles">
 
-{% for post in site.posts limit:site.front-page-posts %}
+{% for project in site.project limit:site.front-page-posts %}
 	<article class="style{{ forloop.index | plus:1 }}">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+			<img src="{{ site.url }}{{ site.baseurl }}/{{project.featured-image}}" alt="" />
 		</span>
-		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
-			<h2>{{ post.title }}</h2>
+		<a href="{{ project.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ project.title }}</h2>
 			<div class="content">
-				<p>{{ post.excerpt }}</p>
+				<p>{{ project.excerpt }}</p>
 			</div>
 		</a>
 	</article>

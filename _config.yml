@@ -10,7 +10,7 @@ title: Jan Anlauff
 email: web at anlauff dot net
 description: Selected Projects
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://portfolio.anlauff.net" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Logo settings
 #logo-image-url: images/logo.svg
@@ -30,3 +30,8 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
+
+collections:
+  projects:
+    output: true
+    permalink: /:path
