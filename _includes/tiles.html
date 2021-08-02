@@ -3,7 +3,7 @@
 {% for project in site.projects limit:site.front-page-posts %}
 	<article class="style{{ forloop.index | plus:1 }}">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/{{project.featured-image}}" alt="" />
+			<img src="{{ site.url }}{{ site.baseurl }}/{{project.featured-image}}" alt="{{ project.title }}:{{ project.excerpt }}" />
 		</span>
 		<a href="{{ project.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ project.title }}</h2>
