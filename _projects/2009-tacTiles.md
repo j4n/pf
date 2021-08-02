@@ -18,7 +18,7 @@ My Master's thesis in computer science at the Ambient Intelligence Group, Bielef
 	</div>
 </div>
 
-Published as Diplomarbeit, and at ACE'10: Anlauff, J., Großhauser, T., & Hermann, T. (2010, October). Tactiles: a low-cost modular tactile sensing system for floor interactions. In Proceedings of the 6th Nordic Conference on Human-Computer Interaction: Extending Boundaries (pp. 591-594).
+Published as Diplomarbeit, and at NordiCHI'10: <a href="https://www.techfak.de/ags/ami/publications/media/AnlauffGrosshauserHermann2010-TAL.pdf">Anlauff, J., Großhauser, T., & Hermann, T. (2010, October). tacTiles: a low-cost modular tactile sensing system for floor interactions. In Proceedings of the 6th Nordic Conference on Human-Computer Interaction: Extending Boundaries (pp. 591-594).</a>
 
 Skills: Embedded programming (AVR-C), Processing for Visualization. G-Code for Linear Table. Lasercutting, PCB design and, assembly for second generation.
 
@@ -40,7 +40,7 @@ The operating principle of the sensor cells is based similar to that of a force 
 		<div class="3u"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_top.jpg"><img src="img/2009-tacTiles/tacTiles_v1_top.jpg" alt="V1 top" /></a></span></div>
 		<div class="3u"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_bot.jpg"><img src="img/2009-tacTiles/tacTiles_v1_bot.jpg" alt="V1 bot" /></a></span></div>
 		<div class="3u"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_standing.jpg"><img src="img/2009-tacTiles/tacTiles_v1_standing.jpg" alt="User standing on two V1" /></a></span></div>
-		<div class="3u$"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_eval.jpg"><img src="img/2009-tacTiles/tacTiles_v1_eval.jpg" alt="Evaluation force response and durability with linear table and strain gauge." /></a></span></div>
+		<div [[]] class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_eval.jpg"><img src="img/2009-tacTiles/tacTiles_v1_eval.jpg" alt="Evaluation force response and durability with linear table and strain gauge." /></a></span></div>
 	</div>
 </div>
 
