@@ -37,10 +37,10 @@ The operating principle of the sensor cells is based similar to that of a force 
 <h2>First two 8x8 Prototypes</h2>
 <div class="box alt">
 	<div class="row uniform">
-		<div class="4u"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_top.jpg"><img src="img/2009-tacTiles/tacTiles_v1_top.jpg" alt="V1 top" /></a></span></div>
+		<div class="3u"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_top.jpg"><img src="img/2009-tacTiles/tacTiles_v1_top.jpg" alt="V1 top" /></a></span></div>
 		<div class="3u"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_bot.jpg"><img src="img/2009-tacTiles/tacTiles_v1_bot.jpg" alt="V1 bot" /></a></span></div>
 		<div class="3u"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_standing.jpg"><img src="img/2009-tacTiles/tacTiles_v1_standing.jpg" alt="User standing on two V1" /></a></span></div>
-		<div class="2u$"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_eval.jpg"><img src="img/2009-tacTiles/tacTiles_v1_eval.jpg" alt="Evaluation force response and durability with linear table and strain gauge." /></a></span></div>
+		<div class="3u$"><span class="image fit"><a href="img/2009-tacTiles/tacTiles_v1_eval.jpg"><img src="img/2009-tacTiles/tacTiles_v1_eval.jpg" alt="Evaluation force response and durability with linear table and strain gauge." /></a></span></div>
 	</div>
 </div>
 
