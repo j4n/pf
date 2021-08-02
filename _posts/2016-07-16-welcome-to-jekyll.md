@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "tacTiles"
+title:  "tacTiles post"
 excerpt: "A Low-Cost Modular Room-Scale Tactile Sensing."
 featured-image: 2010-tacTiles/img/2010-tacTiles/tacTiles-module_top-crop.jpg
 ---
