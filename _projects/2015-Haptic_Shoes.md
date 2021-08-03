@@ -54,10 +54,10 @@ In a study we evaluated this integration and we asked participants to distinguis
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/trog_v2_sole-letters.jpg"><img src="img/2015-Shoes/trog_v2_sole-letters.jpg" alt="" /></a></span></div>
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/patterns_3x2-lines.png"><img src="img/2015-Shoes/patterns_3x2-lines.png" alt="" /></a></span></div>
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/recognition_total.png"><img src="img/2015-Shoes/recognition_total.png" alt="" /></a></span></div>
-		<div class="3u$"><span class="image fit"><a href="img/2015-Shoes/recognition_patterns_total.pn"><img src="img/2015-Shoes/recognition_patterns_total.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/trog_v2_sole-letters.jpg"><img src="img/2015-Shoes/trog_v2_sole-letters.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="img/2015-Shoes/patterns_3x2-lines.png"><img src="img/2015-Shoes/patterns_3x2-lines.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/recognition_total.png"><img src="img/2015-Shoes/recognition_total.png" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="img/2015-Shoes/recognition_patterns_total.png"><img src="img/2015-Shoes/recognition_patterns_total.png" alt="" /></a></span></div>
 	</div>
 </div>
 
