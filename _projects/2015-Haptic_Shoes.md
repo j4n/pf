@@ -81,8 +81,8 @@ Foot-based interface control may present an appealing option when the hands are 
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="6u"><span class="image fit"><a href="img/2015-Shoes/jan_menue_final_171023.png"><img src="img/2015-Shoes/jan_menue_final_171023.png" alt="" /></a></span></div>
-		<div class="6u$"><span class="image fit"><a href="img/2015-Shoes/attempts.png"><img src="img/2015-Shoes/attempts.png" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="img/2015-Shoes/jan_menue_final_171023.png"><img src="img/2015-Shoes/jan_menue_final_171023.png" alt="" /></a></span></div>
+		<div class="8u$"><span class="image fit"><a href="img/2015-Shoes/attempts.png"><img src="img/2015-Shoes/attempts.png" alt="" /></a></span></div>
 	</div>
 </div>
 
