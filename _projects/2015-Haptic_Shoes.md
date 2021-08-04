@@ -6,6 +6,7 @@ featured-image: img/2015-Shoes/trog_v2-back.jpg
 ---
 
 <h1>Vibrotactile Insoles</h1>
+<p>
 <span class="image left"><a href="img/2015-Shoes/trog_v2_front-small.jpg"><img src="img/2015-Shoes/trog_v2_front-small.jpg" alt="tacTiles second generation" /></a></span>
 
 With the goal to eventually support tactile feedback on balance and locomotion tasks, such as dancing, I developed two generations of instrumented insoles. 
@@ -20,6 +21,7 @@ In contrast to previous systems, were located below the points of highest contac
 	</div>
 </div>
 
+</p>
 
 I evaluated the ability of users to distinguish between 14 tactons, spatio-temporal activation sequences of three tactors, while standing, with promising results highlighting the importance of actuator coupling.
 
