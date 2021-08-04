@@ -14,9 +14,9 @@ In contrast to previous systems, were located below the points of highest contac
 <h2>First Prototype</h2>
 <div class="box alt">
 	<div class="row uniform">
-		<div class="4u"><span class="image fit"><a href="img/2015-Shoes/trog-small.jpg"><img src="img/2015-Shoes/trog-small.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="img/2015-Shoes/haptic_croc.jpg"><img src="img/2015-Shoes/haptic_croc.jpg" alt="" /></a></span></div>
-		<div class="4u$"><span class="image fit"><a href="img/2015-Shoes/pilot_compact.jpg"><img src="img/2015-Shoes/pilot_compact.jpg" alt="" /></a></span></div>
+		<div class="5u"><span class="image fit"><a href="img/2015-Shoes/trog-small.jpg"><img src="img/2015-Shoes/trog-small.jpg" alt="" /></a></span></div>
+		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/haptic_croc.jpg"><img src="img/2015-Shoes/haptic_croc.jpg" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="img/2015-Shoes/pilot_compact.png"><img src="img/2015-Shoes/pilot_compact.png" alt="" /></a></span></div>
 	</div>
 </div>
 
@@ -73,6 +73,16 @@ I developed a mobile phone web app, connected to the shoe through Bluetooth Low 
 	</div>
 </div>
 
+<h3>Study: Angular Menu Feedback</h3>
+Foot-based interface control may present an appealing option when the hands are occupied, such as in the control of machines and instrumentation by doctors, for example. We compared two types of vibrotactile pulses against an auditory click for indicating steps in an angular menu of 3, 6, or 9 items and found that while not as good as auditory, vibrotactile feedback allowed still enabled good user performance.
+
+
+<div class="box alt">
+	<div class="row uniform">
+		<div class="6u"><span class="image fit"><a href="img/2015-Shoes/jan_menue_final_171023.png"><img src="img/2015-Shoes/jan_menue_final_171023.png" alt="" /></a></span></div>
+		<div class="6u$"><span class="image fit"><a href="img/2015-Shoes/attempts.png"><img src="img/2015-Shoes/attempts.png" alt="" /></a></span></div>
+	</div>
+</div>
 
 Published <a href=""></a>
 
