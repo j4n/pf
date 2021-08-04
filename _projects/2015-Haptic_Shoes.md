@@ -6,7 +6,7 @@ featured-image: img/2015-Shoes/trog_v2-back.jpg
 ---
 
 <h1>Vibrotactile Insoles</h1>
-<span class="image left"><a href="img/2015-Shoes/trog_v2_front-small.jpg"><img src="img/2015-Shoes/trog_v2_front-small.jpg" alt="tacTiles second generation" /></a></span>
+<span class="image left"><a class="gallery" href="img/2015-Shoes/trog_v2_front-small.jpg"><img src="img/2015-Shoes/trog_v2_front-small.jpg" alt="tacTiles second generation" /></a></span>
 
 With the goal to eventually support tactile feedback on balance and locomotion tasks, such as dancing, I developed two generations of instrumented insoles. 
 In contrast to previous systems, were located below the points of highest contact with the ground, heel, big toe, and 1st/5th metatarsal head. 
@@ -18,9 +18,9 @@ Skills: PCB Design + Manufacturing, Embedded Development (Arduino), Mobile Devel
 <h2>First Prototype</h2>
 <div class="box alt">
 	<div class="row uniform">
-		<div class="5u"><span class="image fit"><a href="img/2015-Shoes/trog-small.jpg"><img src="img/2015-Shoes/trog-small.jpg" alt="" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/haptic_croc.jpg"><img src="img/2015-Shoes/haptic_croc.jpg" alt="" /></a></span></div>
-		<div class="5u$"><span class="image fit"><a href="img/2015-Shoes/pilot_compact.png"><img src="img/2015-Shoes/pilot_compact.png" alt="" /></a></span></div>
+		<div class="5u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/trog-small.jpg"><img src="img/2015-Shoes/trog-small.jpg" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/haptic_croc.jpg"><img src="img/2015-Shoes/haptic_croc.jpg" alt="" /></a></span></div>
+		<div class="5u$"><span class="image fit"><a class="gallery" href="img/2015-Shoes/pilot_compact.png"><img src="img/2015-Shoes/pilot_compact.png" alt="" /></a></span></div>
 	</div>
 </div>
 
@@ -33,10 +33,10 @@ We evaluated a number of materials and integrations to ensure good coupling of t
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/silicon_samples.jpg"><img src="img/2015-Shoes/silicon_samples.jpg" alt="" /></a></span></div>
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/vibtest.jpg"><img src="img/2015-Shoes/vibtest.jpg" alt="" /></a></span></div>
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/troggendock-side.jpg"><img src="img/2015-Shoes/troggendock-side.jpg" alt="" /></a></span></div>
-		<div class="3u$"><span class="image fit"><a href="img/2015-Shoes/troggendock-module-pink2.jpg"><img src="img/2015-Shoes/troggendock-module-pink2.jpg" alt="" /></a></span></div>
+		<div class="3u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/silicon_samples.jpg"><img src="img/2015-Shoes/silicon_samples.jpg" alt="" /></a></span></div>
+		<div class="3u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/vibtest.jpg"><img src="img/2015-Shoes/vibtest.jpg" alt="" /></a></span></div>
+		<div class="3u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/troggendock-side.jpg"><img src="img/2015-Shoes/troggendock-side.jpg" alt="" /></a></span></div>
+		<div class="3u$"><span class="image fit"><a class="gallery" href="img/2015-Shoes/troggendock-module-pink2.jpg"><img src="img/2015-Shoes/troggendock-module-pink2.jpg" alt="" /></a></span></div>
 	</div>
 </div>
 
@@ -45,10 +45,10 @@ The result was a robust insert. We also designed a custom PCB for a more robust 
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/tn-200.jpg"><img src="img/2015-Shoes/tn-200.jpg" alt="" /></a></span></div>
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/trog_v2_front-small.jpg"><img src="img/2015-Shoes/trog_v2_front-small.jpg" alt="" /></a></span></div>
-		<div class="3u"><span class="image fit"><a href="img/2015-Shoes/trog_v2-back.jpg"><img src="img/2015-Shoes/trog_v2-back.jpg" alt="" /></a></span></div>
-		<div class="3u$"><span class="image fit"><a href="img/2015-Shoes/DSCF1462-shoetronics-populated-crop-small.jpg"><img src="img/2015-Shoes/DSCF1462-shoetronics-populated-crop-small.jpg" alt="" /></a></span></div>
+		<div class="3u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/tn-200.jpg"><img src="img/2015-Shoes/tn-200.jpg" alt="" /></a></span></div>
+		<div class="3u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/trog_v2_front-small.jpg"><img src="img/2015-Shoes/trog_v2_front-small.jpg" alt="" /></a></span></div>
+		<div class="3u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/trog_v2-back.jpg"><img src="img/2015-Shoes/trog_v2-back.jpg" alt="" /></a></span></div>
+		<div class="3u$"><span class="image fit"><a class="gallery" href="img/2015-Shoes/DSCF1462-shoetronics-populated-crop-small.jpg"><img src="img/2015-Shoes/DSCF1462-shoetronics-populated-crop-small.jpg" alt="" /></a></span></div>
 	</div>
 </div>
 
@@ -58,10 +58,10 @@ In a study we evaluated this integration and we asked participants to distinguis
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/trog_v2_sole-letters.jpg"><img src="img/2015-Shoes/trog_v2_sole-letters.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><a href="img/2015-Shoes/patterns_3x2-lines.png"><img src="img/2015-Shoes/patterns_3x2-lines.png" alt="" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/recognition_total.png"><img src="img/2015-Shoes/recognition_total.png" alt="" /></a></span></div>
-		<div class="4u$"><span class="image fit"><a href="img/2015-Shoes/recognition_patterns_total.png"><img src="img/2015-Shoes/recognition_patterns_total.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/trog_v2_sole-letters.jpg"><img src="img/2015-Shoes/trog_v2_sole-letters.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/patterns_3x2-lines.png"><img src="img/2015-Shoes/patterns_3x2-lines.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/recognition_total.png"><img src="img/2015-Shoes/recognition_total.png" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a class="gallery" href="img/2015-Shoes/recognition_patterns_total.png"><img src="img/2015-Shoes/recognition_patterns_total.png" alt="" /></a></span></div>
 	</div>
 </div>
 
@@ -69,11 +69,11 @@ I developed a mobile phone web app, connected to the shoe through Bluetooth Low 
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/app_connect.png"><img src="img/2015-Shoes/app_connect.png" alt="" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/app_pressure.png"><img src="img/2015-Shoes/app_pressure.png" alt="" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/app_choice.png"><img src="img/2015-Shoes/app_choice.png" alt="" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/app_notice.png"><img src="img/2015-Shoes/app_notice.png" alt="" /></a></span></div>
-		<div class="2u$"><span class="image fit"><a href="img/2015-Shoes/app_hapticman.png"><img src="img/2015-Shoes/app_hapticman.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/app_connect.png"><img src="img/2015-Shoes/app_connect.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/app_pressure.png"><img src="img/2015-Shoes/app_pressure.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/app_choice.png"><img src="img/2015-Shoes/app_choice.png" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/app_notice.png"><img src="img/2015-Shoes/app_notice.png" alt="" /></a></span></div>
+		<div class="2u$"><span class="image fit"><a class="gallery" href="img/2015-Shoes/app_hapticman.png"><img src="img/2015-Shoes/app_hapticman.png" alt="" /></a></span></div>
 	</div>
 </div>
 
@@ -84,8 +84,8 @@ Foot-based interface control may present an appealing option when the hands are 
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="4u"><span class="image fit"><a href="img/2015-Shoes/jan_menue_final_171023.png"><img src="img/2015-Shoes/jan_menue_final_171023.png" alt="" /></a></span></div>
-		<div class="8u$"><span class="image fit"><a href="img/2015-Shoes/attempts.png"><img src="img/2015-Shoes/attempts.png" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a class="gallery" href="img/2015-Shoes/jan_menue_final_171023.png"><img src="img/2015-Shoes/jan_menue_final_171023.png" alt="" /></a></span></div>
+		<div class="8u$"><span class="image fit"><a class="gallery" href="img/2015-Shoes/attempts.png"><img src="img/2015-Shoes/attempts.png" alt="" /></a></span></div>
 	</div>
 </div>
 
