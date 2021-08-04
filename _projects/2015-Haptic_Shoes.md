@@ -76,9 +76,10 @@ I developed a mobile phone web app, connected to the shoe through Bluetooth Low 
 	</div>
 </div>
 
-<h3>Study: Angular Menu Feedback</h3>
-Foot-based interface control may present an appealing option when the hands are occupied, such as in the control of machines and instrumentation by doctors, for example. We compared two types of vibrotactile pulses against an auditory click for indicating steps in an angular menu of 3, 6, or 9 items and found that while not as good as auditory, vibrotactile feedback allowed still enabled good user performance.
+Published <a href="https://ieeexplore.ieee.org/abstract/document/7989977/">Anlauff, J., Fung, J., & Cooperstock, J. R. (2017, June). VibeWalk: Foot-based tactons during walking and quiet stance. In 2017 IEEE World Haptics Conference (WHC) (pp. 647-652). IEEE.</a>
 
+<h3>Study: Angular Menu Feedback</h3>
+Foot-based interface control may present an appealing option when the hands are occupied, such as in the control of machines and instrumentation by doctors, for example. We compared two types of vibrotactile pulses against an auditory click for indicating steps in an angular menu of 3, 6, or 9 items (shown below) and found that while not as good as auditory, vibrotactile feedback allowed still enabled good user performance, with the directional feedback not being significantly better than simultaneous activation of the L/R tactor.
 
 <div class="box alt">
 	<div class="row uniform">
@@ -87,6 +88,6 @@ Foot-based interface control may present an appealing option when the hands are 
 	</div>
 </div>
 
-Published <a href=""></a>
+Published <a href="https://ieeexplore.ieee.org/abstract/document/8357172/">Anlauff, J., Kim, T., & Cooperstock, J. R. (2018, March). Feel-a-bump: Haptic feedback for foot-based angular menu selection. In 2018 IEEE Haptics Symposium (HAPTICS) (pp. 175-179). IEEE.</a>
 
 Skills: 
