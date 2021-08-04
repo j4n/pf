@@ -6,11 +6,12 @@ featured-image: img/2015-Shoes/trog_v2-back.jpg
 ---
 
 <h1>Vibrotactile Insoles</h1>
-<p>
 <span class="image left"><a href="img/2015-Shoes/trog_v2_front-small.jpg"><img src="img/2015-Shoes/trog_v2_front-small.jpg" alt="tacTiles second generation" /></a></span>
 
 With the goal to eventually support tactile feedback on balance and locomotion tasks, such as dancing, I developed two generations of instrumented insoles. 
 In contrast to previous systems, were located below the points of highest contact with the ground, heel, big toe, and 1st/5th metatarsal head. 
+
+<br/>
 
 <h2>First Prototype</h2>
 <div class="box alt">
