@@ -11,6 +11,8 @@ featured-image: img/2015-Shoes/trog_v2-back.jpg
 With the goal to eventually support tactile feedback on balance and locomotion tasks, such as dancing, I developed two generations of instrumented insoles. 
 In contrast to previous systems, were located below the points of highest contact with the ground, heel, big toe, and 1st/5th metatarsal head. 
 
+Skills: PCB Design + Manufacturing, Embedded Development (Arduino), Mobile Development (Evothings/Cordova), Study Design and Execution, Data Analysis (R), Scientific Writing
+
 <br/>
 
 <h2>First Prototype</h2>
@@ -22,7 +24,6 @@ In contrast to previous systems, were located below the points of highest contac
 	</div>
 </div>
 
-</p>
 
 I evaluated the ability of users to distinguish between 14 tactons, spatio-temporal activation sequences of three tactors, while standing, with promising results highlighting the importance of actuator coupling.
 
@@ -57,7 +58,7 @@ In a study we evaluated this integration and we asked participants to distinguis
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="1u"><span class="image fit"><a href="img/2015-Shoes/trog_v2_sole-letters.jpg"><img src="img/2015-Shoes/trog_v2_sole-letters.jpg" alt="" /></a></span></div>
+		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/trog_v2_sole-letters.jpg"><img src="img/2015-Shoes/trog_v2_sole-letters.jpg" alt="" /></a></span></div>
 		<div class="4u"><span class="image fit"><a href="img/2015-Shoes/patterns_3x2-lines.png"><img src="img/2015-Shoes/patterns_3x2-lines.png" alt="" /></a></span></div>
 		<div class="2u"><span class="image fit"><a href="img/2015-Shoes/recognition_total.png"><img src="img/2015-Shoes/recognition_total.png" alt="" /></a></span></div>
 		<div class="4u$"><span class="image fit"><a href="img/2015-Shoes/recognition_patterns_total.png"><img src="img/2015-Shoes/recognition_patterns_total.png" alt="" /></a></span></div>
@@ -76,7 +77,7 @@ I developed a mobile phone web app, connected to the shoe through Bluetooth Low 
 	</div>
 </div>
 
-Published <a href="https://ieeexplore.ieee.org/abstract/document/7989977/">Anlauff, J., Fung, J., & Cooperstock, J. R. (2017, June). VibeWalk: Foot-based tactons during walking and quiet stance. In 2017 IEEE World Haptics Conference (WHC) (pp. 647-652). IEEE.</a>
+Published as: <a href="https://ieeexplore.ieee.org/abstract/document/7989977/">Anlauff, J., Fung, J., & Cooperstock, J. R. (2017, June). VibeWalk: Foot-based tactons during walking and quiet stance. In 2017 IEEE World Haptics Conference (WHC) (pp. 647-652). IEEE.</a>
 
 <h3>Study: Angular Menu Feedback</h3>
 Foot-based interface control may present an appealing option when the hands are occupied, such as in the control of machines and instrumentation by doctors, for example. We compared two types of vibrotactile pulses against an auditory click for indicating steps in an angular menu of 3, 6, or 9 items (shown below) and found that while not as good as auditory, vibrotactile feedback allowed still enabled good user performance, with the directional feedback not being significantly better than simultaneous activation of the L/R tactor.
@@ -88,6 +89,4 @@ Foot-based interface control may present an appealing option when the hands are 
 	</div>
 </div>
 
-Published <a href="https://ieeexplore.ieee.org/abstract/document/8357172/">Anlauff, J., Kim, T., & Cooperstock, J. R. (2018, March). Feel-a-bump: Haptic feedback for foot-based angular menu selection. In 2018 IEEE Haptics Symposium (HAPTICS) (pp. 175-179). IEEE.</a>
-
-Skills: 
+Published as: <a href="https://ieeexplore.ieee.org/abstract/document/8357172/">Anlauff, J., Kim, T., & Cooperstock, J. R. (2018, March). Feel-a-bump: Haptic feedback for foot-based angular menu selection. In 2018 IEEE Haptics Symposium (HAPTICS) (pp. 175-179). IEEE.</a>
