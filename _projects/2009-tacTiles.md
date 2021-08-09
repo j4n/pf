@@ -2,7 +2,7 @@
 layout: default
 title:  "tacTiles"
 excerpt: "Low-Cost, Room-Scale Tactile Sensing"
-featured-image: img/2009-tacTiles/tacTiles-module_top-crop.jpg
+featured-image: img/2009-tacTiles/cover.jpg
 ---
 
 <h1>tacTiles - Low-Cost, Room-Scale Tactile Sensing</h1>

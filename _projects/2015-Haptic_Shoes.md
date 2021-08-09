@@ -2,7 +2,7 @@
 layout: default
 title:  "Vibrotactile Insoles"
 excerpt: "PhD: Vibrotactile Insoles"
-featured-image: img/2015-Shoes/trog_v2-back.jpg
+featured-image: img/2015-Shoes/cover.jpg
 ---
 
 <h1>Vibrotactile Insoles</h1>
