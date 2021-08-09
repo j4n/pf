@@ -2,7 +2,7 @@
 layout: default
 title:  "Aurora"
 excerpt: "Multi Mirror Heliostat"
-featured-image: img/2009-tacTiles/tacTiles-module_top-crop.jpg
+featured-image: img/2019-Aurora/cover.jpg
 ---
 
 <h1>Aurora</h1>
