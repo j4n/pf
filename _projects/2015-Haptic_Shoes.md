@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Vibrotactile Insoles"
-excerpt: "PhD: Vibrotactile Insoles"
+excerpt: "Vibrotactile Insoles (Ph.D. Thesis)"
 featured-image: img/2015-Shoes/cover.jpg
 ---
 

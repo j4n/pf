@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "tacTiles"
-excerpt: "Low-Cost, Room-Scale Tactile Sensing"
+excerpt: "tacTiles: Low-Cost, Room-Scale Tactile Sensing (Master's Thesis)"
 featured-image: img/2009-tacTiles/cover.jpg
 ---
 
