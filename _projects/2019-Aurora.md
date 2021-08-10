@@ -47,5 +47,3 @@ The name and shape of the project stems from the Aurora grain mill, situated on 
 		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/rhein_links.jpg"><img src="img/2019-Aurora/rhein_links.jpg" alt="2019-Aurora/rhein_links.jpg" /></a></span></div>
 	</div>
 </div>
-muehle.jpg
-rhein_links.jpg
