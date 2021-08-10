@@ -1,4 +1,4 @@
-[[---]]
+---
 layout: default
 title:  "Aurora"
 excerpt: "Multi Mirror Heliostat"
