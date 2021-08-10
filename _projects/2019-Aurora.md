@@ -32,8 +32,8 @@ Together with project initiator blausand and a handful of on-site volunteers, we
 		<div class="6u"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_close.jpg"><img src="img/2019-Aurora/bs_camp_tower_close.jpg" alt="2019-Aurora/bs_camp_tower_close.jpg" /></a></span></div>
 		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_sunset.jpg"><img src="img/2019-Aurora/bs_camp_tower_sunset.jpg" alt="2019-Aurora/bs_camp_tower_sunset.jpg" /></a></span></div>
 
-		<div class="6u"><span class="image fit"><a href="img/2019-Aurora/camp_fairy_dust.jpg"><img src="img/2019-Aurora/camp_fairy_dust.jpg" alt="2019-Aurora/camp_fairy_dust.jpg" /></a></span></div>
-		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/bs_camp_night.jpg"><img src="img/2019-Aurora/bs_camp_night.jpg" alt="2019-Aurora/bs_camp_night.jpg" /></a></span></div>
+		<div class="7u"><span class="image fit"><a href="img/2019-Aurora/camp_fairy_dust.jpg"><img src="img/2019-Aurora/camp_fairy_dust.jpg" alt="2019-Aurora/camp_fairy_dust.jpg" /></a></span></div>
+		<div class="5u$"><span class="image fit"><a href="img/2019-Aurora/bs_camp_night.jpg"><img src="img/2019-Aurora/bs_camp_night.jpg" alt="2019-Aurora/bs_camp_night.jpg" /></a></span></div>
 	</div>
 </div>
 (photos partially by blausand)
