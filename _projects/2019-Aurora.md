@@ -12,8 +12,8 @@ Aurora is an array of 40 mirrors, each able to tilt in two axes, to track the su
 Skills: Python, Mechanical Construction, Project Coordination
 
 <h2>CCCamp19: Prototype</h2>
-A first complete prototype was build on-site during the Chaos Communication Camp 2019
-Together with project initiator blausand and a handful of on-site volunteers, we went from a single-channel prototype to a full 40 mirror array in roughly two weeks. We ordered 100 servo motors from China, and while waiting for their arrival, constructed the aluminium extrusion frame, mass-producted a suitable motor integration, and cut mirrors, often in collaboration with local enterprises. My role was prototype design, project coordination, electronic implementation and subsequently programming the motor control framework. 
+A first complete prototype was build on-site during the Chaos Communication Camp 2019.
+Together with project initiator blausand and a handful of on-site volunteers, we went from a single-channel prototype to a full 40 mirror array in roughly two weeks. On arrival to setup, we ordered 100 servo motors from China and while waiting for their arrival, constructed the frame from scrap aluminium extrusions, a suitable motor integration * 80, and cut mirrors, collaborating often with local enterprises. My role was prototype design, project coordination, electronic implementation and subsequently programming the motor control framework. 
 
 <div class="box alt">
 	<div class="row uniform">
@@ -21,7 +21,7 @@ Together with project initiator blausand and a handful of on-site volunteers, we
 		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/making_mirrors_cut.jpg"><img src="img/2019-Aurora/making_mirrors_cut.jpg" alt="2019-Aurora/making_mirrors_cut.jpg" /></a></span></div>
 
 		<div class="4u"><span class="image fit"><a href="img/2019-Aurora/camp_frame_naked.jpg"><img src="img/2019-Aurora/camp_frame_naked.jpg" alt="2019-Aurora/camp_frame_naked.jpg" /></a></span></div>
-		<div class="4u$"><span class="image fit"><a href="img/2019-Aurora/camp_frame_motors.jpg"><img src="img/2019-Aurora/camp_frame_motors.jpg" alt="2019-Aurora/camp_frame_motors.jpg" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="img/2019-Aurora/camp_frame_motors.jpg"><img src="img/2019-Aurora/camp_frame_motors.jpg" alt="2019-Aurora/camp_frame_motors.jpg" /></a></span></div>
 		<div class="4u$"><span class="image fit"><a href="img/2019-Aurora/camp_complete_go.jpg"><img src="img/2019-Aurora/camp_complete_go.jpg" alt="2019-Aurora/camp_complete_go.jpg" /></a></span></div>
 		
 		<div class="12$"><span class="image fit"><a href="img/2019-Aurora/camp_complete.jpg"><img src="img/2019-Aurora/camp_complete.jpg" alt="2019-Aurora/camp_complete.jpg" /></a></span></div>
