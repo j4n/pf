@@ -17,21 +17,23 @@ Together with project initiator blausand and a handful of on-site volunteers, we
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="5u"><span class="image fit"><a href="img/2019-Aurora/making_extrusion_cut.jpg"><img src="img/2019-Aurora/making_extrusion_cut.jpg" alt="2019-Aurora/making_extrusion_cut.jpg" /></a></span></div>
-		<div class="5u"><span class="image fit"><a href="img/2019-Aurora/making_mirrors_cut.jpg"><img src="img/2019-Aurora/making_mirrors_cut.jpg" alt="2019-Aurora/making_mirrors_cut.jpg" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="img/2019-Aurora/camp_frame_naked.jpg"><img src="img/2019-Aurora/camp_frame_naked.jpg" alt="2019-Aurora/camp_frame_naked.jpg" /></a></span></div>
-		<div class="2u$"><span class="image fit"><a href="img/2019-Aurora/camp_frame_motors.jpg"><img src="img/2019-Aurora/camp_frame_motors.jpg" alt="2019-Aurora/camp_frame_motors.jpg" /></a></span></div>
-		
-		<div class="8u"><span class="image fit"><a href="img/2019-Aurora/camp_complete.jpg"><img src="img/2019-Aurora/camp_complete.jpg" alt="2019-Aurora/camp_complete.jpg" /></a></span></div>
+		<div class="6u"><span class="image fit"><a href="img/2019-Aurora/making_extrusion_cut.jpg"><img src="img/2019-Aurora/making_extrusion_cut.jpg" alt="2019-Aurora/making_extrusion_cut.jpg" /></a></span></div>
+		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/making_mirrors_cut.jpg"><img src="img/2019-Aurora/making_mirrors_cut.jpg" alt="2019-Aurora/making_mirrors_cut.jpg" /></a></span></div>
+
+		<div class="4u"><span class="image fit"><a href="img/2019-Aurora/camp_frame_naked.jpg"><img src="img/2019-Aurora/camp_frame_naked.jpg" alt="2019-Aurora/camp_frame_naked.jpg" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="img/2019-Aurora/camp_frame_motors.jpg"><img src="img/2019-Aurora/camp_frame_motors.jpg" alt="2019-Aurora/camp_frame_motors.jpg" /></a></span></div>
 		<div class="4u$"><span class="image fit"><a href="img/2019-Aurora/camp_complete_go.jpg"><img src="img/2019-Aurora/camp_complete_go.jpg" alt="2019-Aurora/camp_complete_go.jpg" /></a></span></div>
+		
+		<div class="12$"><span class="image fit"><a href="img/2019-Aurora/camp_complete.jpg"><img src="img/2019-Aurora/camp_complete.jpg" alt="2019-Aurora/camp_complete.jpg" /></a></span></div>
 
-		<div class="2u"><span class="image fit"><a href="img/2019-Aurora/camp_fairy_dust.jpg"><img src="img/2019-Aurora/camp_fairy_dust.jpg" alt="2019-Aurora/camp_fairy_dust.jpg" /></a></span></div>
-		<div class="5u"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_far.jpg"><img src="img/2019-Aurora/bs_camp_tower_far.jpg" alt="2019-Aurora/bs_camp_tower_far.jpg" /></a></span></div>
-		<div class="5u$"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_sun.jpg"><img src="img/2019-Aurora/bs_camp_tower_sun.jpg" alt="2019-Aurora/bs_camp_tower_sun.jpg" /></a></span></div>
+		<div class="6u"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_far.jpg"><img src="img/2019-Aurora/bs_camp_tower_far.jpg" alt="2019-Aurora/bs_camp_tower_far.jpg" /></a></span></div>
+		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_sun.jpg"><img src="img/2019-Aurora/bs_camp_tower_sun.jpg" alt="2019-Aurora/bs_camp_tower_sun.jpg" /></a></span></div>
 
-		<div class="5u"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_close.jpg"><img src="img/2019-Aurora/bs_camp_tower_close.jpg" alt="2019-Aurora/bs_camp_tower_close.jpg" /></a></span></div>
-		<div class="5u"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_sunset.jpg"><img src="img/2019-Aurora/bs_camp_tower_sunset.jpg" alt="2019-Aurora/bs_camp_tower_sunset.jpg" /></a></span></div>
-		<div class="2u"><span class="image fit"><a href="img/2019-Aurora/bs_camp_night.jpg"><img src="img/2019-Aurora/bs_camp_night.jpg" alt="2019-Aurora/bs_camp_night.jpg" /></a></span></div>
+		<div class="6u"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_close.jpg"><img src="img/2019-Aurora/bs_camp_tower_close.jpg" alt="2019-Aurora/bs_camp_tower_close.jpg" /></a></span></div>
+		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/bs_camp_tower_sunset.jpg"><img src="img/2019-Aurora/bs_camp_tower_sunset.jpg" alt="2019-Aurora/bs_camp_tower_sunset.jpg" /></a></span></div>
+
+		<div class="6u"><span class="image fit"><a href="img/2019-Aurora/camp_fairy_dust.jpg"><img src="img/2019-Aurora/camp_fairy_dust.jpg" alt="2019-Aurora/camp_fairy_dust.jpg" /></a></span></div>
+		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/bs_camp_night.jpg"><img src="img/2019-Aurora/bs_camp_night.jpg" alt="2019-Aurora/bs_camp_night.jpg" /></a></span></div>
 	</div>
 </div>
 (photos partially by blausand)
@@ -39,5 +41,11 @@ Together with project initiator blausand and a handful of on-site volunteers, we
 <h2>Vision</h2>
 The name and shape of the project stems from the Aurora grain mill, situated on the Köln Poll harbour front. Our vision is to create a larger version (ø 8-10 m) and hang it on the former mill's building, replacing the original logo with a heliostat that would be able to bring light to the other bank of river Rhine, known for their "crane builidings" that, being on the west bank, do not get to enjoy sunlight until sunset.
 
+<div class="box alt">
+	<div class="row uniform">
+		<div class="6u"><span class="image fit"><a href="img/2019-Aurora/muehle.jpg"><img src="img/2019-Aurora/muehle.jpg" alt="2019-Aurora/muehle.jpg" /></a></span></div>
+		<div class="6u$"><span class="image fit"><a href="img/2019-Aurora/rhein_links.jpg"><img src="img/2019-Aurora/rhein_links.jpg" alt="2019-Aurora/rhein_links.jpg" /></a></span></div>
+	</div>
+</div>
 muehle.jpg
 rhein_links.jpg
