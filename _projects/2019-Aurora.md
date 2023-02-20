@@ -12,8 +12,11 @@ Aurora is an array of 40 mirrors, each able to tilt in two axes, to track the su
 Skills: Python, Mechanical Construction, Project Coordination
 
 <h2>CCCamp19: Prototype</h2>
-A first complete prototype was build on-site during the Chaos Communication Camp 2019.
-Together with project initiator blausand and a handful of on-site volunteers, we went from a single-channel prototype to a full 40 mirror array in roughly two weeks. On arrival to setup, we ordered 100 servo motors from China and while waiting for their arrival, constructed the frame from scrap aluminium extrusions, a suitable motor integration * 80, and cut mirrors, collaborating often with local enterprises. My role was prototype design, project coordination, electronic implementation and subsequently programming the motor control framework. 
+We built a first complete prototype on-site during the Chaos Communication Camp 2019.
+Together with project initiator blausand and a handful of on-site volunteers, we went from a single-channel prototype to a full 40 mirror array in only two weeks. 
+On arrival to the site, we ordered 100 servo motors from China, and set off to build everything else until they arrived 10 days later, often collaborating with local enterprises.
+We designed and constructed a frame from scrap aluminium extrusions, a suitable low-cost motor integration (x 80), and cut over 40 mirrors at the wonderful [Glaserei Elsner](https://www.glaserei-elsner.de/). 
+My role was prototype design, project coordination, and design and implementation of the electronics; as the project progressed, also leading the development of the control software.
 
 <div class="box alt">
 	<div class="row uniform">
@@ -39,7 +42,7 @@ Together with project initiator blausand and a handful of on-site volunteers, we
 (photos partially by blausand)
 
 <h2>Vision</h2>
-The name and shape of the project stems from the Aurora grain mill, situated on the Köln Poll harbour front. Our vision is to create a larger version (ø 8-10 m) and hang it on the former mill's building, replacing the original logo with a heliostat that would be able to bring light to the other bank of river Rhine, known for their "crane builidings" that, being on the west bank, do not get to enjoy sunlight until sunset.
+The name and shape of the project stems from the Aurora grain mill, situated on the Köln Poll harbour front. Our vision is to create a larger version (ø 8-10 m) and install it on the former mill's building, replacing the original logo with a similarly shaped heliostat. The intent is to reflect the sun during sunset to the then shaded west bank of the river Rhine. This recently redeveloped former port area is known for known for the characteristic "crane buildings".
 
 <div class="box alt">
 	<div class="row uniform">
